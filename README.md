@@ -1,6 +1,6 @@
 
 
-# Material Design Tic Tac Toe
+# Tic Tac Toe
 
 A minimalist Tic Tac Toe game built with HTML, CSS, and vanilla JavaScript, featuring a Material Design-inspired dark theme.
 
